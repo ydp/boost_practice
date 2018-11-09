@@ -37,3 +37,6 @@ int main(int argc, char* argv[]) {
     return 0;
 }
 ```
+
+其他版本实现[cpp registry pattern](https://github.com/psalvaggio/cppregpattern)
+
